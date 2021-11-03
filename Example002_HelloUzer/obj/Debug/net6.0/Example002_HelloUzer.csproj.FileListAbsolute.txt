@@ -1,0 +1,16 @@
+C:\Users\Administranor\Desktop\Examples\Example002_HelloUzer\bin\Debug\net6.0\Example002_HelloUzer.exe
+C:\Users\Administranor\Desktop\Examples\Example002_HelloUzer\bin\Debug\net6.0\Example002_HelloUzer.deps.json
+C:\Users\Administranor\Desktop\Examples\Example002_HelloUzer\bin\Debug\net6.0\Example002_HelloUzer.runtimeconfig.json
+C:\Users\Administranor\Desktop\Examples\Example002_HelloUzer\bin\Debug\net6.0\Example002_HelloUzer.dll
+C:\Users\Administranor\Desktop\Examples\Example002_HelloUzer\bin\Debug\net6.0\ref\Example002_HelloUzer.dll
+C:\Users\Administranor\Desktop\Examples\Example002_HelloUzer\bin\Debug\net6.0\Example002_HelloUzer.pdb
+C:\Users\Administranor\Desktop\Examples\Example002_HelloUzer\obj\Debug\net6.0\Example002_HelloUzer.GlobalUsings.g.cs
+C:\Users\Administranor\Desktop\Examples\Example002_HelloUzer\obj\Debug\net6.0\Example002_HelloUzer.csproj.AssemblyReference.cache
+C:\Users\Administranor\Desktop\Examples\Example002_HelloUzer\obj\Debug\net6.0\Example002_HelloUzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administranor\Desktop\Examples\Example002_HelloUzer\obj\Debug\net6.0\Example002_HelloUzer.AssemblyInfoInputs.cache
+C:\Users\Administranor\Desktop\Examples\Example002_HelloUzer\obj\Debug\net6.0\Example002_HelloUzer.AssemblyInfo.cs
+C:\Users\Administranor\Desktop\Examples\Example002_HelloUzer\obj\Debug\net6.0\Example002_HelloUzer.csproj.CoreCompileInputs.cache
+C:\Users\Administranor\Desktop\Examples\Example002_HelloUzer\obj\Debug\net6.0\Example002_HelloUzer.dll
+C:\Users\Administranor\Desktop\Examples\Example002_HelloUzer\obj\Debug\net6.0\ref\Example002_HelloUzer.dll
+C:\Users\Administranor\Desktop\Examples\Example002_HelloUzer\obj\Debug\net6.0\Example002_HelloUzer.pdb
+C:\Users\Administranor\Desktop\Examples\Example002_HelloUzer\obj\Debug\net6.0\Example002_HelloUzer.genruntimeconfig.cache
